@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:.."
+      name = "..">
+      <FileRef
+         location = "group:Xylophone1.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:Sounds"
+         name = "Sounds">
+      </Group>
+      <Group
+         location = "group:Xylophone1"
+         name = "Xylophone1">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppBreweryLogo.imageset"
+               name = "AppBreweryLogo.imageset">
+               <FileRef
+                  location = "group:AppBreweryLogo.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AppBreweryLogo-1.imageset"
+               name = "AppBreweryLogo-1.imageset">
+               <FileRef
+                  location = "group:AppBreweryLogo-1.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:background-1.imageset"
+               name = "background-1.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:background-1.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Icon-40@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Icon-40@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Icon-60@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Icon-1024.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Icon-60@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:Icon-Small@3x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Icon-Small@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AppBreweryLogo-2.imageset"
+               name = "AppBreweryLogo-2.imageset">
+               <FileRef
+                  location = "group:AppBreweryLogo-2.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:background.imageset"
+               name = "background.imageset">
+               <FileRef
+                  location = "group:background.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:background-2.imageset"
+               name = "background-2.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:background-2.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "container:">
+   </FileRef>
+</Workspace>
